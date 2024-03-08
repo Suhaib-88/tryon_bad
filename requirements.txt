@@ -1,0 +1,7 @@
+bentoml
+joblib
+pip-chill
+torchvision
+tqdm
+wincertstore
+-e .
